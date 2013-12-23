@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidtestActivity!</string>
+    <string name="app_name">Androidtest</string>
+	<color name="red">#FF0000</color>
+	<string name="tt">图片</string>
+	<string name="tuichu">点击退出</string>
+	<string name="show">显示信息</string>
+</resources>
